@@ -1,0 +1,10 @@
+{
+  "name": "marcelklehr-browser-stream",
+  "description": "Streams in your browser, node.js-style (compatible with the new streams API)",
+  "version": "0.0.0",
+  "main": "Stream.js",
+  "dependencies": {
+    "component-emitter": "git://github.com/npmcomponent/component-emitter.git"
+  },
+  "license": "MIT"
+}

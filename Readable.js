@@ -24,7 +24,7 @@ Readable.ReadableState = ReadableState;
 
 function debug() {/*console.log.apply(console, arguments)*/}
 
-var emitter = require('emitter');
+var emitter = require('component-emitter');
 var Stream = require('./Stream');
 var StringDecoder;
 
